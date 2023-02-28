@@ -9,4 +9,4 @@ This python3 script draws the Sierpinski Gasket (or Sierpinski Triangl) using th
 # Usage
 Run the script giving the number of the plot points in the first command-line argument.
 
-Example: ./sierpinski_gasket 10000
+Example: `./sierpinski_gasket 10000`
